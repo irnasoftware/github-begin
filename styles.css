@@ -38,6 +38,10 @@ header nav ul li img.logo {
     margin-right: 1rem;
 }
 
+header .logo {
+    height: 40px;
+}
+
 main {
     padding: 2rem;
 }
